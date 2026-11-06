@@ -1,6 +1,6 @@
 # À propos
 
-![Photo de profil](ma-photo.jpeg)
+![Photo de profil](ma_photo.png)
 
 
 \
