@@ -1,6 +1,6 @@
 # Portfolio de compétences
 
-**Orientation :**
+**Orientation :** Sciences de l'environnement
 
 [Lien de l'arbre des connaissances](https://gse-sondage.unil.ch/quiz-rentree-fgse/arbre/)
 
