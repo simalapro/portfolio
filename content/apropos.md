@@ -1,6 +1,6 @@
 # À propos
 
-```{image} ma-photo.jpeg
+```![Photo de profil](img/ma-photo.jpeg)
 :alt: Photo de profil
 :class: bg-primary mb-1
 :width: 200px
