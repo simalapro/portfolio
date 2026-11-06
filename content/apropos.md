@@ -1,6 +1,6 @@
 # À propos
 
-```{image} img/ma-photo.jpeg
+```{image} ma-photo.jpeg
 :alt: Photo de profil
 :class: bg-primary mb-1
 :width: 200px
