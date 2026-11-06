@@ -20,10 +20,10 @@
 
 | Compétence (réf. + intitulé) | La preuve (quoi, quand, sous quelle forme) | Ce que j'ai décidé (un choix, et pourquoi) | Écrit, audio, images, etc. (où la retrouver, ou perdue) | 
 |---|---|---|---|
-| Compétence 1 | Levés Géomatiques LEVEGEOM-2 | Exposé à 5.75  | Groupe travailleur et efficace, les décisions se prenaient ensemble | PowerPoint sur mon ordinateur |
-| Compétence 2  | Physique du globe PHYSGLOB-3 | Examen et exercices réussis, bonne compréhension du cours | Nouvelle méthode de révision en refaisant des anciens examens | Résumé du cours et anciens examens effectués disponibles |
-|  Compétence 3 | Géomorphologie II GEOMORII-2 | Examen oral réussi | Entraînement intensif et révisions en globalité, pas que sur ce que le cours montrait | Résumé disponible |
-|  Compétence 4 (hors cursus) | Philosophie générale et systématique : Qu'est-ce que la justice ? | Examen oral réussi alors que c'était quelque chose de nouveau | Révisions avec un ami en Lettres, aide importante de sa part pour la compréhension du lexique | Résumé disponible sur mon ordinateur
+| Levés Géomatiques LEVEGEOM-2 | Exposé à 5.75  | Groupe travailleur et efficace, les décisions se prenaient ensemble | PowerPoint sur mon ordinateur |
+| Physique du globe PHYSGLOB-3 | Examen et exercices réussis, bonne compréhension du cours | Nouvelle méthode de révision en refaisant des anciens examens | Résumé du cours et anciens examens effectués disponibles |
+|  Géomorphologie II GEOMORII-2 | Examen oral réussi | Entraînement intensif et révisions en globalité, pas que sur ce que le cours montrait | Résumé disponible |
+|  Philosophie générale et systématique : Qu'est-ce que la justice ? | Examen oral réussi alors que c'était quelque chose de nouveau | Révisions avec un ami en Lettres, aide importante de sa part pour la compréhension du lexique | Résumé disponible sur mon ordinateur
 ---
 
 *Arbre des connaissances, état au 21 octobre 2026 · [gse-sondage.unil.ch/quiz-rentree-fgse/arbre/](https://gse-sondage.unil.ch/quiz-rentree-fgse/arbre/)*
